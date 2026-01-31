@@ -1,0 +1,2 @@
+在powershell窗口下，输入：
+irm https://get.activated.win | iex
